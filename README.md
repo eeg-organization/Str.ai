@@ -4,7 +4,8 @@
 
 `Str.ai` is a `GPT powered text and audio conversational assistant` that can help you with your mental health. It is a safe space where you can talk about your feelings and emotions without the fear of being judged. It is a place where you can be yourself and talk about anything that is bothering you. It is a place where you can find a friend who will listen to you and help you feel better. You've got a friend in him!
 
-![Demo](static/demo.png)
+## [Demo Video](https://youtu.be/7XzuwTqrIGs)
+[![Watch the video](static/demo.png)](https://youtu.be/7XzuwTqrIGs)
 
 Engaging in heartfelt conversations with empathetic and non-judgmental friends can have an immediate positive impact on your well-being. This is the concept behind `Stranger’s Therapy`, where you discover solace through meaningful connections.
 
